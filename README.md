@@ -24,7 +24,6 @@ unknown devices. Simple, lightweight, and no root required — powered by Shizuk
   <img src="Shizuisolation-screenshot2.jpg" width="250" alt="Screenshot 2"/>
   <img src="Shizuisolation-screenshot3.jpg" width="250" alt="Screenshot 3"/>
 </p>
-
 ---
 
 ## Features
