@@ -20,9 +20,9 @@ unknown devices. Simple, lightweight, and no root required — powered by Shizuk
 ## Screenshots
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/musaddiqbaluch/ShizuIsolation/main/Shizuisolation-screenshot1.jpg" width="250"/>
-  <img src="https://raw.githubusercontent.com/musaddiqbaluch/ShizuIsolation/main/Shizuisolation-screenshot2.jpg" width="250"/>
-  <img src="https://raw.githubusercontent.com/musaddiqbaluch/ShizuIsolation/main/Shizuisolation-screenshot3.jpg" width="250"/>
+  <img src="https://raw.githubusercontent.com/musaddiqbaluch/ShizuIsolation/main/ShizuIsolation-screenshot1.jpg" width="250" alt="Screenshot 1"/>
+  <img src="https://raw.githubusercontent.com/musaddiqbaluch/ShizuIsolation/main/ShizuIsolation-screenshot2.jpg" width="250" alt="Screenshot 2"/>
+  <img src="https://raw.githubusercontent.com/musaddiqbaluch/ShizuIsolation/main/ShizuIsolation-screenshot3.jpg" width="250" alt="Screenshot 3"/>
 </p>
 ---
 
